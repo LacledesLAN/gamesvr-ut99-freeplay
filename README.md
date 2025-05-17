@@ -68,7 +68,6 @@ This repository is maintained by [Laclede's LAN](https://lacledeslan.com). Its c
 | MoreGore LGE - Ludicrous Gibs Edition | MrLoathsome                      |  |
 | Relics                                | Epic Games                       |  |
 | Unlimited Ammo                        | Unknown                          |  |
-| Zoom InstaGib                         | Unknown                          | the beloved InstaGib with shock rifles that zoom. Duh. |
 
 ## Getting Started with Game Servers in Docker
 
