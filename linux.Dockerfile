@@ -16,7 +16,7 @@ LABEL com.lacledeslan.build-node=$BUILDNODE `
 
 
 # Backup the original UnrealTournament.ini, in case we want to revert the live server
-COPY /app/System/UnrealTournament.ini /app/System/UnrealTournamentBackup.ini
+RUN cp /app/System/UnrealTournament.ini /app/System/UnrealTournamentBackup.ini
 
 # Copy in our custom server content
 COPY --chown=UT99Freeplay:root ./dist/content/ /app/System/
