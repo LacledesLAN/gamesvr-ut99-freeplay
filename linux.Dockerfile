@@ -16,7 +16,7 @@ LABEL com.lacledeslan.build-node=$BUILDNODE `
 
 
 # UPDATE USERNAME & ensure permissions
-RUN usermod -l UT99Freeplay UT99;;
+RUN usermod -l UT99Freeplay UT99
 
 USER UT99Freeplay
 
