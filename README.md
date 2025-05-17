@@ -4,7 +4,29 @@
 
 This repository is maintained by [Laclede's LAN](https://lacledeslan.com). Its contents are heavily tailored and tweaked for use at our charity LAN-Parties. For third-parties we recommend using this repo only as a reference example and then building your own using [gamesvr-ut99](https://github.com/LacledesLAN/gamesvr-ut99) as the base image for your customized server.
 
-<TODO: BASIC DOCUMENTATION>
+## Linux Container
+
+[![linux/amd64](https://github.com/LacledesLAN/gamesvr-ut99-freeplay/actions/workflows/build-linux-image.yml/badge.svg)](https://github.com/LacledesLAN/gamesvr-ut99-freeplay/actions/workflows/build-linux-image.yml)
+
+### Download
+
+```shell
+docker pull lacledeslan/gamesvr-ut99-freeplay;
+```
+
+### Run Self Tests
+
+The image includes a test script that can be used to verify its contents. No changes or pull-requests will be accepted to this repository if any tests fail.
+
+```shell
+docker run -it --rm lacledeslan/gamesvr-ut99-freeplay ./ll-tests/gamesvr-ut99-freeplay.sh;
+```
+
+### Run simple interactive server
+
+```shell
+docker run -it --rm --net=host lacledeslan/gamesvr-ut99-freeplay /app/ucc server DM-Hood.unr?game=Botpack.DeathMatchPlus -nohomedir -lanplay
+```
 
 ## Custom Content
 
@@ -65,7 +87,6 @@ This repository is maintained by [Laclede's LAN](https://lacledeslan.com). Its c
 | Name                                  | Author                           | Notes                       |
 | :------------------------------------ | :------------------------------- | :-------------------------- |
 | Fatboy                                | jbP                              | Death is slimming...        |
-| MoreGore LGE - Ludicrous Gibs Edition | MrLoathsome                      |  |
 | Relics                                | Epic Games                       |  |
 | Unlimited Ammo                        | Unknown                          |  |
 
