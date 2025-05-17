@@ -19,7 +19,8 @@ LABEL com.lacledeslan.build-node=$BUILDNODE `
 RUN cp /app/System/UnrealTournament.ini /app/System/UnrealTournamentBackup.ini
 
 # Copy in our custom server content
-COPY --chown=UT99Freeplay:root ./dist/content /app/System/
+COPY --chown=UT99Freeplay:root ./dist/content/Maps /app/System/Maps/
+COPY --chown=UT99Freeplay:root ./dist/content/Textures /app/System/Textures/
 
 # Copy in our custom UnrealTournament.ini
 COPY --chown=UT99Freeplay:root ./dist/UnrealTournament.ini /app/System/UnrealTournament.ini
