@@ -1,6 +1,6 @@
 # Laclede's LAN Unreal Tournament 99 Dedicated Freeplay Server
 
-<TODO: Title Image>
+![Laclede's LAN Unreal Tournament 99 Dedicated Freeplay Server](https://raw.githubusercontent.com/LacledesLAN/gamesvr-ut99-freeplay/refs/heads/main/.misc/banner-ut99-freeplay.png "Laclede's LAN Unreal Tournament 99 Dedicated Freeplay Server")
 
 This repository is maintained by [Laclede's LAN](https://lacledeslan.com). Its contents are heavily tailored and tweaked for use at our charity LAN-Parties. For third-parties we recommend using this repo only as a reference example and then building your own using [gamesvr-ut99](https://github.com/LacledesLAN/gamesvr-ut99) as the base image for your customized server.
 
