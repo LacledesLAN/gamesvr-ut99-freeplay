@@ -1,0 +1,5 @@
+# Set default behavior to automatically normalize to linux line endings.
+* text=auto eol=lf
+
+# Windows specific
+*.bat text=auto eol=crlf
