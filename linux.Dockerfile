@@ -25,7 +25,9 @@ COPY --chown=UT99Freeplay:root ./dist/content /app/
 COPY --chown=UT99Freeplay:root ./dist/UnrealTournament.ini /app/System/UnrealTournament.ini
 
 # UPDATE USERNAME & ensure permissions
-RUN usermod -l UT99Freeplay UT99
+RUN usermod -l UT99Freeplay UT99 &&`
+    chmod +x /app/ll-tests/*.sh &&`
+    chown UT99:root -R /app;
 
 USER UT99Freeplay
 
