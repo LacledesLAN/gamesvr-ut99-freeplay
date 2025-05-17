@@ -1,0 +1,16 @@
+Fatboy Mutator -- for the UT demo.
+
+Author: JbP
+Idea: Epic
+
+Handling instructions: 
+
+Download and unzip. Extract both files into your tournamentdemo\system 
+directory. Load up Unreal Tournament Demo, start practice session, click
+on the "mutators" button, and double-click fatboy to include it in your 
+botmatch.
+
+Legal: Use it, don't make money out of it.
+
+
+

@@ -1,0 +1,40 @@
+================================================================
+Title                   : DM-PS2_Brickyard
+Version                 : 1
+Date Completed          : 4/28/01
+Filename                : DM-PS2_Brickyard.unr
+Author                  : Ken "DrunKenobi" Lynch
+Email Address           : klynch@insight.rr.com
+Description             : This map is on the PS2 version of Unreal Torunament of the
+			  same name.
+Additional Credits to   : Tom "Master" Godwin for testing and feedback.  I found this
+			  tutorial site very useful:
+			  http://www.game-edit.com/tutorials/Unreal/.  THANKS to everyone
+                          that took the time to make thoes tutorials!
+Notes                   : This is my 4th map.  I couldnt find all the same textures so I
+			  selected some that look ok.  Also, the PS2 version didnt have any
+			  music in it (mabey a glitch on my copy or something) so I picked
+			  a song that is fitting.
+================================================================
+
+--- Play Information ---
+Game                    : Unreal Tournament
+Level Name              : DM-PS2_Brickyard
+New Sounds              : No
+New Graphics            : No
+New Music		: No
+Known Bugs              : None
+Player Count		: 4 to 6
+Bot Support             : Yes
+ 
+--- Construction ---
+Editor(s) used          : UnrealEd Version 2.0 with the 436 patch
+Construction Time       : 8 hours
+
+
+--- Installation ---
+Copy "DM-PS2_Brickyard.unr" into the UnrealTournament/Maps subdir.
+
+
+
+

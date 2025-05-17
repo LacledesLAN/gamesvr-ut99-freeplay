@@ -1,0 +1,46 @@
+
+	DmBasement by Si "Kain" Cass
+
+	Email me on = si278@yahoo.co.uk
+=================================================
+
+Inspired by one of the greatest games of all time - Goldeneye
+
+PLAY INFORMATION
+================
+
+    Single Player           : Botmatch
+    Cooperative             : No
+    Deathmatch              : Yes
+    Difficulty Settings     : No
+    New Sounds              : No
+    New Graphics            : Yes - 007tex.utx
+    Known Glitches          : None
+
+This level is for Unreal Tournament and if you want an Unreal version (no idea why you
+would...) convert it yourself. 
+If you have other 007 levels, the texture file you download with THIS map is the one to use.
+It prevents you having to constantly replace the file.
+
+CONSTRUCTION
+============
+ 
+    Editor(s) used          : UnrealED
+    Build Time              : 3 days maybe?
+
+
+NOTES
+=====
+Erm, what do i say?
+Oh yeah a map pack is being released soon by some other people and me containing all 
+the Goldeneye levels - head on over to Nali City BBS (www.planetunreal.com./nalicity) 
+to discover more.
+
+I really don't care, or have any control, over what you do with this map 
+(just don't sell it).
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

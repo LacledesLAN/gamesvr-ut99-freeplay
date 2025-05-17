@@ -1,0 +1,46 @@
+
+	DM-Temple by Si "Kain" Cass
+
+	Email me on = si278@yahoo.co.uk
+=================================================
+
+Inspired by one of the greatest games of all time - Goldeneye
+
+PLAY INFORMATION
+================
+
+    Single Player           : Botmatch
+    Cooperative             : No
+    Deathmatch              : Yes
+    Difficulty Settings     : No
+    New Sounds              : No
+    New Graphics            : Yes (007tex.utx )
+    Known Glitches          : None
+
+
+CONSTRUCTION
+============
+ 
+    Editor(s) used          : UnrealED
+    Build Time              : about a week
+
+
+NOTES
+=====
+To play the level copy 007tex.utx to your textures directory
+This level may need a power-PC to run as it is full of fog (no slowdown on my 
+computer but then again I've got a P400, 128MB RAM, Voodoo3 3000)
+If you are a sniper you should have a good time on this level.
+A map pack is being released soon by some other people and me containing all 
+the Goldeneye levels - head on over to Nali City BBS (www.planetunreal.com./nalicity) 
+to discover more.
+
+
+I really don't care, or have any control, over what you do with this map 
+(just don't sell it).
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

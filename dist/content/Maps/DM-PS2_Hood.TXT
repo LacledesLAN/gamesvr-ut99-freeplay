@@ -1,0 +1,52 @@
+================================================================
+Title                   : DM-PS2_Hood
+Version                 : 1
+Date Completed          : 4/20/01
+Filename                : DM-PS2_Hood.unr
+Author                  : Ken "DrunKenobi" Lynch
+Email Address           : klynch@insight.rr.com
+Description             : This map is on the PS2 version of Unreal Torunament of the
+			  same name.  It is very similar to DOM-Condemned, same textures
+			  and basic style.  Everything is copied from the PS2 version -
+ 			  layout, textures, item placement, music, etc...
+Additional Credits to   : Tom "Master" Godwin for testing and feedback.  I found this
+			  tutorial site very useful:
+			  http://www.game-edit.com/tutorials/Unreal/.  THANKS to everyone
+                          that took the time to make thoes tutorials!
+Notes                   : This is my second map.  I had some concerns about the PS2 version.
+			  For a pretty big map it only had 5 player starts so I took the
+			  liberty of adding another 3.  Also the PS2 version has 0 (yes, ZERO!)
+			  health items in it.  Staying faithful to the console version I
+			  left it out, it actually forces you to play a bit more cautious.
+			  Still fun none the less!  The big change from the PS2 version is 
+			  you are now able to get on top of the buildings.  I wont let the
+			  bots get up there to keep it more PS2'ish, but players can if they
+			  want.  Not much goin on up there, not much of an advantage either.
+			  I always wanted to get up there but couldnt, so this was just for
+			  shits and giggles.  Also, watch out for the lifts.  If you are under
+			  one it will crush your ass (-100 health).  Occasionally a bot would
+			  get stuck under there until someone happend along its path, so untill
+			  I get better at pathnoding - stupid bots get mashed.  Enjoy!
+================================================================
+
+--- Play Information ---
+Game                    : Unreal Tournament
+Level Name              : DM-PS2_Hood
+New Sounds              : No
+New Graphics            : No
+New Music		: No
+Known Bugs              : None
+Player Count		: 4 to 8
+Bot Support             : Yes
+ 
+--- Construction ---
+Editor(s) used          : UnrealEd Version 2.0 with the 436 patch
+Construction Time       : 24 hours
+
+
+--- Installation ---
+Copy "DM-PS2_Hood.unr" into the UnrealTournament/Maps subdir.
+
+
+
+

@@ -1,0 +1,52 @@
+================================================================
+Title                   : DM-PS2_Core
+Version                 : 1
+Date Completed          : 5/2/01
+Filename                : DM-PS2_Core.unr
+Author                  : Ken "DrunKenobi" Lynch
+Email Address           : klynch@insight.rr.com
+Description             : This map is on the PS2 version of Unreal Torunament of the
+			  same name.
+Additional Credits to   : Tom "Master" Godwin for testing and feedback.  I found this
+			  tutorial site very useful:
+			  http://www.game-edit.com/tutorials/Unreal/.  THANKS to everyone
+                          that took the time to make thoes tutorials!
+Notes                   : This is my 6th and final PS2 map (see list at bottom).  I kinda
+			  rushed this one and it shows.  There are 7 levels in the PS2 version
+			  that arent in the PC version.  I've done all but 1 because its 
+			  lame.  I really want to start one of my own but I just had to 
+			  finish these.  They are a blast on PS2 and even better on PC, and 
+			  they play well online.  
+================================================================
+
+--- Play Information ---
+Game                    : Unreal Tournament
+Level Name              : DM-PS2_Core
+New Sounds              : No
+New Graphics            : No
+New Music		: No
+Known Bugs              : None
+Player Count		: 4 to 6
+Bot Support             : Yes
+ 
+--- Construction ---
+Editor(s) used          : UnrealEd Version 2.0 with the 436 patch
+Construction Time       : 6 hours
+
+
+--- Installation ---
+Copy "DM-PS2_Core.unr" into the UnrealTournament/Maps subdir.
+
+
+--- Other ---
+The only other maps I've done are the rest of the PS2 maps:
+DM-PS2_Brickyard
+DM-PS2_Coagulate
+DM-PS2_Hood
+DM-PS2_Loathing
+DM-PS2_Sorayama
+
+
+
+
+

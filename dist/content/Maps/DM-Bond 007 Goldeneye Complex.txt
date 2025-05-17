@@ -1,0 +1,45 @@
+
+                       Dm007-Complex By Goldabar
+PLAY INFORMATION
+================
+
+    GameType                : UTDeathmatch
+    Single Player           : Yes,bots
+    Cooperative             : Yes, teamDm    
+    Difficulty Settings     : yes
+    New Sounds              : No
+    New Graphics            : No
+    Known Glitches          : NONE (email me at Bluedog@hunterlink.net.au if you find any. Feel free to send comments as well)
+
+
+
+                               
+    Editor(s) used          : UnrealED
+    Build Time              : About 2 days 
+
+AUTHOR'S NOTES
+==============
+
+This map is based on the Goldeneye map of the same name. A map pack will be released soon which will include all the DM levels from Goldeneye, which Kain and I will be releasing. For more information check out the Advanced Editing forum at the Nali City BBS. Have fun!
+   
+COPYRIGHTS/PERMISSIONS
+======================
+
+You are NOT allowed to commercially exploit this level for profit in any way,
+including but not limited to, putting it on a CD ROM or any other medium that 
+is sold in or out of retail channels, for any amount of money.  
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file, leave the archive
+intact, and do not charge a fee for access to this file.
+
+
+     
+
+
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

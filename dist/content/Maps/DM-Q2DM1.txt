@@ -1,0 +1,57 @@
+Unreal Tournament Map
+
+================================================================
+Title                   : DM-TheEdge (Q2DM1)
+Version                 : 1
+Release Date            : 25-4-2000
+Filename                : DM-Q2DM1.unr
+Author                  : James "VT|CreepingDeath" Morgan
+Email Address           : james@tower.freeserve.co.uk
+           
+Description             : A conversion of most peoples fave Quake2 DM level into UT.  I thought it would be easy, but
+				turned out to be very very difficult due the shape and untidiness of the original.
+				This was because the editor was much more primitive than UnrealEd and automatic curved
+				stair cases (and certain other shapes) could not be done with ease back then.
+				Considering this, the original is a work of art.
+
+Other Levels by author: 		DM- Installation Alpha
+				DM- Crypt Of Qapla'	
+				DM-Amethyst
+				All can be downloaded from:   www.planetunreal.com\nalicity
+
+================================================================
+--- Play Information ---
+Game                    : Unreal Tournament
+                                 
+Level Name              : DM-TheEdge        
+
+Game Type               : Deathmatch
+Single Player           : yes
+Multiplayer             : yes
+New Sounds              : No
+New Graphics            : Yes, the sky (I had a lot of trouble with that sky!)
+
+Known bugs	: Bots don't go in the water at all, and never go and get the ShockRifle.  I tried and tried and tried some
+		more to fix this but the bots simply would not go, no matter what I did.
+	
+				
+
+--- Construction ---
+Editor(s) used          : UnrealEd 
+Conversion time	: about 4 months (Converting the geometry only took about 1 week!)
+
+
+Installation
+------------
+Unzip the file DM-Q2DM1.unr into your UnrealTournament\maps directory, then unzip the .utx file into the textures directory.
+You can then choose DM-Q2DM1.unr from the "start practice session\deathmatch" menu.
+
+----------------------
+
+Special Thanks to everyone who has helped with the testing of this map.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

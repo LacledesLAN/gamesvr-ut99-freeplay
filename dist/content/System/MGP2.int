@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=MGP2.MoreGoreModMenuItem,Class=Class, MetaClass=UMenu.UMenuModMenuItem)
+Object=(Name=MGP2.MG,Class=Class,MetaClass=Engine.Mutator,Description="MoreGore Plus 2")

@@ -1,0 +1,42 @@
+
+                       Dm007-Caves By Goldabar
+PLAY INFORMATION
+================
+
+    GameType                : UTDeathmatch
+    Single Player           : Yes,bots
+    Cooperative             : Yes, teamDm    
+    Difficulty Settings     : yes
+    New Sounds              : No
+    New Graphics            : No
+    Known Glitches          : NONE (email me at Bluedog@hunterlink.net.au if you find any. Feel free to send comments as well)                                                        Editor(s) used: UnrealED
+    Build Time: About a week
+Other maps by me: Dm007-Complex
+                  Dm007-Egyptian
+                  CTF-Opposing Forces
+                  Dm007-Caves
+AUTHOR'S NOTES
+==============
+
+This map is based on the Goldeneye map of the same name. A map pack will be released soon which will include all the DM levels from Goldeneye, which Kain and I will be releasing. For more information check out the Advanced Editing forum at the Nali City BBS. I recommend that this level is played using Infiltration Team Deathmatch, with 4 people.
+   
+Credits: I'd like to thank Kain for making the level pack with me, to see some of his work you can also get Archives, Library, Stack, and Temple. Thanks to Joshua, Billy Bad Ass,Floyd,Travis and all the other people at the Nali City forum for helping me make the levels better. And most of all, thanks to Rare, the creators of THE best game ever made!
+COPYRIGHTS/PERMISSIONS
+======================
+
+Please feel free to distribute this level on magazine cover CD's and the like, but make sure you tell me first. And don't make money out of this level unless you intend to give me some too!!  
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file, leave the archive
+intact, and do not charge a fee for access to this file.
+
+
+     
+
+
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

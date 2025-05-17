@@ -1,0 +1,32 @@
+Unreal Tournament Relics package
+
+Made by: Epic Games
+Converted to Unreal by: Tomkatrebel and .:..: (Dots)
+Extracted from cache, readme and distribution by: Hyper.nl
+http://www.hyper.nl.tt
+
+Summons:
+(Example: Summon Relics.DefenceInv)
+
+Relics.DefenceInv
+Relics.RedemptionInv
+Relics.RegenerationInv
+Relics.SpeedInv
+Relics.StrengthInv
+Relics.VengeanceInv
+
+Mutators:
+
+Relics.Relic
+Relics.RelicMutator
+
+(Example Use Unreal.exe DMAriza?gametype=unrealshare.deathmatchgame?mutator=relics.relicmutator to start a deathmatch game with relics)
+
+There are 6 types of relics:
+- Relic of Defense: Reduces all the damage you take by half.
+- Relic of Redemption: Gives you a second chance at life.
+- Relic of Regeneration: Regenerates your health.
+- Relic of Speed: Multiplies your speed by 1.5
+- Relic of Strength: Doubles the damage that you do.
+- Relic of Vengeance: Creates a big explosion after your death.
+

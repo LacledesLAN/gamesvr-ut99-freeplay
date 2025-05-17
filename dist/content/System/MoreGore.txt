@@ -1,0 +1,38 @@
+MoreGore_LGE - Ludicrous Gibs Edition. by Mr.Loathsome.
+ *based on the MoreGore v2 muator by -shiftre, Clan 404
+
+LGE Update:  Removed the DigDug mode and its associated overhead.
+             Mutator now scales the gib chunks based on the drawscale
+             of the pawn that is being gibbed.
+
+Description:  
+
+   This mutator allows you to increase the amount of gore generated when gibbing
+another player or monster, creating very messy and in someways, artistic deaths.
+
+MoreGorePlus update primarly adds a few timer variables and a rewrite of the core gib
+spawing code in the mutator to attempt to remove the lag the original version had 
+at any but the lowest settings.
+
+Also implements support for greenblood on the blood spray.
+
+Instructions:
+
+Just install into your System directory.   For servers, no need to add as a serverpackage.
+
+To change the gore level, select Mod/MoreGore Setup from the UT Menu, and use the slider to set the
+goreLevel to a value between 1-40. It set to 1 by default (1 being 2x the gore).
+Suggest settings between 1 and 10.
+
+SpawnRate slider controls how quickly the mutator will attempt to spawn the gibs on player or monsters
+death.  Higher value = longer delay before next death spawns gibs.
+
+GibRate controls how fast the mutator will spawn goreLevel # of gibbed carcasses.
+Best range seems to be 0.25 - 0.50.   Higher will produce a noticible pulse in the gib spawns.
+(Which may or may not be bad....)
+
+For servers, set the goreLevel a bit lower, and the rates a bit higher than you would for offline play.
+
+Have fun !
+
+Mr.Loathsome
