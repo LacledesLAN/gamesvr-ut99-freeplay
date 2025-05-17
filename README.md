@@ -34,7 +34,7 @@ This repository is maintained by [Laclede's LAN](https://lacledeslan.com). Its c
 | Extortion                   | David 'DavidM' Münnich           |  |
 | Flux                        | Glowing Angel                    |  |
 | Gearbox                     | Cliff "CliffyB" Bleszinski       |  |
-| Girder                      | Cliff "CliffyB" Bleszinsk        |  |
+| Girder                      | Cliff "CliffyB" Bleszinski       |  |
 | Google                      | Cliff "CliffyB" Bleszinski       |  |
 | Halberd Castle              | Warren Marshall                  |  |
 | Hood                        | Ken ''DrunKenobi'' Lynch         |  |
