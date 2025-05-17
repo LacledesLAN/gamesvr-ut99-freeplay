@@ -15,6 +15,15 @@ LABEL com.lacledeslan.build-node=$BUILDNODE `
       org.label-schema.vcs-url="https://github.com/LacledesLAN/gamesvr-ut99"
 
 
+# Backup the original UnrealTournament.ini, in case we want to revert the live server
+COPY /app/System/UnrealTournament.ini /app/System/UnrealTournamentBackup.ini
+
+# Copy in our custom server content
+COPY --chown=UT99Freeplay:root ./dist/content/ /app/System/
+
+# Copy in our custom UnrealTournament.ini
+COPY --chown=UT99Freeplay:root ./dist/UnrealTournament.ini /app/System/UnrealTournament.ini
+
 # UPDATE USERNAME & ensure permissions
 RUN usermod -l UT99Freeplay UT99
 
