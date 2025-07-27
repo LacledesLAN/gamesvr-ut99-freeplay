@@ -86,9 +86,25 @@ docker run -it --rm --net=host lacledeslan/gamesvr-ut99-freeplay /app/ucc server
 
 | Name                                  | Author                           | Notes                       |
 | :------------------------------------ | :------------------------------- | :-------------------------- |
+| Map-Vote 3.0.4                        | 'remote administrators to'       | aka `BDBMapVote304`         |
 | Fatboy                                | jbP                              | Death is slimming...        |
 | Relics                                | Epic Games                       |  |
 | Unlimited Ammo                        | Unknown                          |  |
+
+## Adding Content
+
+When adding content:
+
+* `.unr` (Map files) go in the `dist/content/Maps` directory.
+* `.utx` (Texture and materials) go in the `dist/content/Textures` directory.
+* `.uax` (Sound files) go in the `dist/content/Sounds` directory.
+* `.umx` (Music files) go in the `dist/content/Music` directory.
+* `.int`, `.u`, `.ini` go in the `dist/content/System` directory.
+  * `.ini` files are configuration files.
+  * `.int` files are package loaders.
+  * `.u` files are compiled UnrealScript classes, often containing other resources like sounds or textures.
+
+`*.*.uz` files are compressed, and go on the 'HTTP fast downloads' server.
 
 ## Getting Started with Game Servers in Docker
 
