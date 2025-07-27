@@ -90,7 +90,6 @@ docker run -it --rm --net=host lacledeslan/gamesvr-ut99-freeplay /app/ucc server
 | Map-Vote 3.0.4          | 'remote administrators to' | aka `BDBMapVote304`         |
 | Relics                  | Epic Games                 |  |
 | Unlimited Ammo          | Unknown                    |  |
-| Zoom InstaGib           | Unknown                    | the beloved InstaGib with shock rifles that zoom. Duh. |
 
 ## Adding Content
 
