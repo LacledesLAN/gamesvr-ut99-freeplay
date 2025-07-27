@@ -93,7 +93,7 @@ docker run -it --rm --net=host lacledeslan/gamesvr-ut99-freeplay /app/ucc server
 
 ## Adding Content
 
-When adding content:
+When adding content to this `freeplay` server image:
 
 * `.unr` (Map files) go in the `dist/content/Maps` directory.
 * `.utx` (Texture and materials) go in the `dist/content/Textures` directory.
@@ -104,7 +104,11 @@ When adding content:
   * `.int` files are package loaders.
   * `.u` files are compiled UnrealScript classes, often containing other resources like sounds or textures.
 
-`*.*.uz` files are compressed, and go on the 'HTTP fast downloads' server.
+Other content types:
+
+`.uc` - UnrealScript source code.
+`.umod` files - These are self-installing packages that can be used to install mods and content.
+`.uz` / `.uz2` - These are compressed versions of package files for faster downloads, and go on the 'HTTP fast downloads' server.
 
 ## Getting Started with Game Servers in Docker
 

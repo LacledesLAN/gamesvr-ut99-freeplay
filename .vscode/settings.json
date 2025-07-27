@@ -21,6 +21,7 @@
         "lanplay",
         "nohomedir",
         "translocators",
+        "umod",
         "usermod"
     ]
 }
