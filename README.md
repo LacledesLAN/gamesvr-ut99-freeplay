@@ -88,7 +88,6 @@ docker run -it --rm --net=host lacledeslan/gamesvr-ut99-freeplay /app/ucc server
 | :--------------------------------- | :------------------------- | :-------------------------- |
 | Fatboy                             | jbP                        | Death is slimming...        |
 | Map-Vote 3.0.4                     | 'remote administrators to' | aka `BDBMapVote304`         |
-| Relics                             | Epic Games                 |  |
 | Unlimited Ammo                     | Unknown                    |  |
 | Zoom InstaGib Arena Mutator (v1.0) | Mark Matzke & Matt Dunphy  |  |
 

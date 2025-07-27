@@ -1,1 +1,0 @@
-Start DmCurse?Game=UnrealI.KingOfTheHill?Difficulty=4?Mutator=Relics.RelicMutator
